@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @samrzn
 - 👀 Estou interessado em compartilhar, adquirir e agregar conhecimento.
-- 🌱 Atualmente estou participando do bootcamp Recode PRO 2022 aprendendo Desenvolvimento Full Stack, também faço bacharel em Gestão Pública na UFMG.
+- 🌱 Atualmente estou participando do bootcamp Recode PRO 2022 em Desenvolvimento Full Stack, também faço bacharel em Gestão Pública na UFMG.
 - 📫 Para entrar em contato comigo, é através do LinkedIn (https://www.linkedin.com/in/sam-rzn/).
 
 <!---
