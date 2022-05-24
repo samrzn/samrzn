@@ -1,7 +1,6 @@
 - 👋 Olá, sou o @samrzn
-- 👀 Estou interessado em compartilhar, adquirir e agregar conhecimentos.
-- 🌱 Atualmente estou aprendendo lógica, desenvolvimento e linguagens de programação, por enquanto sou um aprendiz. Ademais, faço bacharelado em Gestão Pública pela UFMG.
-- 💞️ Estou animado para colaborar em projetos com outros aprendizes de programação e também pessoas mais experientes na área... Porém, todo conhecimento deve ser utilizado, se eu for útil em outro tipo de projeto é só me procurar.
+- 👀 Estou interessado em compartilhar, adquirir e agregar conhecimento.
+- 🌱 Atualmente estou participando do bootcamp Recode PRO 2022 aprendendo Desenvolvimento Full Stack, também faço bacharel em Gestão Pública na UFMG.
 - 📫 Para entrar em contato comigo, é através do LinkedIn (https://www.linkedin.com/in/sam-rzn/).
 
 <!---
